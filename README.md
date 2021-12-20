@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @imlipe
+- 👀 Eu estou aprendendo Python e quero me tornar um bom programador
